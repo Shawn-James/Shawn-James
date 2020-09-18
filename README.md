@@ -8,3 +8,12 @@
 [![Linkedin](https://img.shields.io/badge/-Shawn--James-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shawn-james/)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Shawn-James&count_private=true&show_icons=true&hide=stars)
+
+<details><summary><b>About Me</b></summary><p>
+  
+  * Interested in Mixed Reality / Augmented Reality
+  * Bachelor of Science in Marketing & Business
+  * Fluent in Spanish
+  * Guitarist
+  * Athlete
+</p></details>
