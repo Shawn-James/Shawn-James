@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/YYbecrFqO7UUE/giphy.gif" width="70">
 
-<h2> Welcome! I Build Software for Apple Products <img src="https://media.giphy.com/media/xTiN0xgs6VejTcqw6Y/giphy.gif" width="40"> </h2>
+<h2> Welcome! I Build Software for Apple Products </h2>
 
 ![Page Visits](https://visitor-badge.glitch.me/badge?page_id=Shawn-James.Shawn-James)
 [![App Store](https://img.shields.io/badge/-App%20Store-blue?style=flat-square&logo=apple&logoColor=white)]()
