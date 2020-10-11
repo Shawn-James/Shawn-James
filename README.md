@@ -8,4 +8,4 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Shawn-James&count_private=true&show_icons=true&hide=stars)
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=Shawn-James.Shawn-James" id="counter">
+![Page Visits](https://visitor-badge.glitch.me/badge?page_id=Shawn-James.Shawn-James)
