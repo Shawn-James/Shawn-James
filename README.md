@@ -1,13 +1,12 @@
-<!-- <img src="https://media.giphy.com/media/YYbecrFqO7UUE/giphy.gif" width="70"> -->
-
 <h1> 👋 Hi There! </h1>
 
-<!-- <h4> Connect With Me </h4> -->
+[View My Apps On The App Store](https://apps.apple.com/us/developer/shawn-james/id1542413876)
 
-[![Email](https://img.shields.io/badge/-Email%20Me-blue?style=flat-square)](mailto:shawn.james@me.com)
-[![Linkedin](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shawn-james/)
+[View My Portfolio](https://sites.google.com/view/shawnjames-portfolio)
 
-[![App Store](https://img.shields.io/badge/-My%20App%20Store%20Page-blue?style=flat-square&logo=apple&logoColor=white)](https://apps.apple.com/us/developer/shawn-james/id1542413876)
+[Connect With Me On LinkedIn](https://www.linkedin.com/in/shawn-james/)
+
+[Send Me An Email](mailto:shawnjames.dev@icloud.com)
 
 <h3> Repositories: </h2>
 
