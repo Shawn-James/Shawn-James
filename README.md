@@ -4,6 +4,8 @@
 
 [View My Portfolio](https://sites.google.com/view/shawnjames-portfolio)
 
+[View My Resume](https://docs.google.com/document/d/1v0FpDXSO7HDYrOXb4tzk-0t9XgVK4fkqX-yWifKeMBE/edit?usp=sharing)
+
 [Connect With Me On LinkedIn](https://www.linkedin.com/in/shawn-james/)
 
 [Send Me An Email](mailto:shawnjames.dev@icloud.com)
