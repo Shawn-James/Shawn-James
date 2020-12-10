@@ -4,7 +4,7 @@
 
 [Portfolio](https://sites.google.com/view/shawnjames-portfolio)
 
-[Resume](https://docs.google.com/document/d/1v0FpDXSO7HDYrOXb4tzk-0t9XgVK4fkqX-yWifKeMBE/edit?usp=sharing)
+[Resume](https://rb.gy/qsbdag)
 
 [LinkedIn](https://www.linkedin.com/in/shawn-james/)
 
