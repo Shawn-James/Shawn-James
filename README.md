@@ -2,7 +2,7 @@
 
 [App Store](https://apps.apple.com/us/developer/shawn-james/id1542413876)
 
-[Portfolio](https://sites.google.com/view/shawnjames-portfolio)
+<!-- [Portfolio](https://sites.google.com/view/shawnjames-portfolio) -->
 
 <!-- [Resume](https://rb.gy/qsbdag) -->
 
